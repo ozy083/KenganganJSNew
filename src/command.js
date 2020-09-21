@@ -289,7 +289,7 @@ creator() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u14f64e139a3817afaabe27d237afb36b'}
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
@@ -301,7 +301,7 @@ admin1() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u14f64e139a3817afaabe27d237afb36b'}
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
@@ -313,7 +313,7 @@ admin2() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u653c0c37cdaefb7f583023c02cb8384a' }
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
@@ -325,7 +325,7 @@ admin3() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u2297b268eec8988b3c32ffa058b0a248' }
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
@@ -337,7 +337,7 @@ admin4() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'uea50f7108c44b400a9f70b75f7848fcf' }
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
@@ -349,7 +349,7 @@ admin5() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u7235ccb3dd6b587f28fec4044901d710' }
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
@@ -501,7 +501,7 @@ bot2() {
             contentType: 13,
             contentPreview: null,
             contentMetadata: 
-            { mid: 'u659f68789c0e74d37cdd97c0e879c73e' }
+            { mid: 'u38a0db46c15e8d89726abd2ecb2c8148'}
         }
         Object.assign(this.messages,msg);
         this._sendMessage(this.messages);
